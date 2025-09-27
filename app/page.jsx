@@ -1,4 +1,4 @@
-import ImageGallery from "./components/ImageGallery";
+import ImageGallery from "./components/ImageGallery2";
 
 export default function Home() {
   return (
